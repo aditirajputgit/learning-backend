@@ -1,0 +1,10 @@
+//overview hoga indeep kuch ni hoga jada 
+node js is important and npm also 
+
+computer/mobile  -> express <- server
+
+server pr koi na koi listen kr rha hogaa
+like -> home  -> /:home -> route
+
+
+
